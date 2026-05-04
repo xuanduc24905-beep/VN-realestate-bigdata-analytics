@@ -1,0 +1,9 @@
+data/*.csv
+data/*.parquet
+data/*.json
+logs/
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+.DS_Store
